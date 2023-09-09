@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/**
+/** 
  * main - display alphabet reverse and lowercase
  * Return: return 0 and exit the program
  */
