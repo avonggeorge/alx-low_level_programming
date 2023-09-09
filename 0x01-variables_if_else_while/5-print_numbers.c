@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/**
+/**  
  * main - displays numbers from 0 to 9
  * Return: return 0 and exit the program.
  */
