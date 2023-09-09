@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - displays all numbers from 0 to 9 using putchar
+ * main - displays all numbers from 0 to 9 using putchar 
  * Return: return 0 and exit the program.
  */
 int main(void)
