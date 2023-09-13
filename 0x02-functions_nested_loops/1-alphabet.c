@@ -1,4 +1,4 @@
-#include "main.h" // this is the header:wq
+#include "main.h"
 
 /**
  * print_alphabet - Prints the alphabet in lowercase
