@@ -1,4 +1,4 @@
-#include "main.h" // this is the header
+#include "main.h"
 
 /**
  * print_sign - Prints the sign of a number
