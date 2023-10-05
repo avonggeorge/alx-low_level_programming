@@ -3,7 +3,7 @@
 
 /**
   * header file - contains declarations
-  * for all the prototypes in this task
+  * for all the prototypes in this task.
   */
 
 int _putchar(char c);
