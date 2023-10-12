@@ -2,8 +2,7 @@
 #define MAIN_H
 
 /* This a header file containing declarations
- * for prototype functions defined in the 0x0C-more_malloc_free
- * tasks and directory
+ * for prototype functions defined in the 0x0C-more_malloc_free tasks and directory
  * This is like creating my own library with declared functions
  * The tasks defines  the functions
  */
