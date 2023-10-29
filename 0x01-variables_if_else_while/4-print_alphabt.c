@@ -2,7 +2,7 @@
 
 /**
  * main - Print the alphabet without q and e
- * Return: return 0 and exit the program 
+ * Return: return 0 and exit the program
  */
 int main(void)
 {
@@ -13,7 +13,6 @@ int main(void)
 		if (l != 'e' && l != 'q')
 			putchar(l);
 	}
-
 	putchar('\n');
 	return (0);
 }
