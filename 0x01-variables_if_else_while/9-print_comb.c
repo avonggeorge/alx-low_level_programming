@@ -3,6 +3,7 @@
  * main - print combinations of single digit-numbers 
  * Return: return 0 and exit program
  */
+
 int main(void)
 {
 	int i;
