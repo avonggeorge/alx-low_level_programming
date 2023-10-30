@@ -1,8 +1,10 @@
 #include <stdio.h>
+
 /**
- * main -  print differente combination of two digit-numbers 
+ * main -  print differente combination of two digit-numbers
  * Return: return 0 and exit program
  */
+
 int main(void)
 {
 	int num1 = '0';
